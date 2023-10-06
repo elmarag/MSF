@@ -1,3 +1,4 @@
+# MSF
 Instructions to run Mario’s Spaceforce
 
 1.	Open Microsoft SQL Server
@@ -7,5 +8,3 @@ Instructions to run Mario’s Spaceforce
 5.	Execute one by one the queries provided in the project folder in the MSSQL server. The file where the queries can be found is called cs350db.sql
 6.	On visual studio go to view  server explorer and make sure your server is up and running
 7.	Click start or F5 on visual studio to start the game
-# MSF
- 
